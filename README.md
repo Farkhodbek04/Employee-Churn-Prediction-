@@ -68,11 +68,9 @@ The dataset contains 1000 rows with the following features:
 | Metric         | Score |
 |----------------|-------|
 | Accuracy       | 96%   |
-| Precision      | XX%   |
-| Recall         | XX%   |
-| F1-Score       | XX%   |
-
-> 📌 *Note: Replace XX with your actual values from classification report.*
+| Precision      | 96%   |
+| Recall         | 100%  |
+| F1-Score       | 98%   |
 
 ---
 
@@ -87,7 +85,7 @@ The dataset contains 1000 rows with the following features:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/churn-prediction.git
+git clone https://github.com/Farkhodbek04/Employee-Churn-Prediction-.git
 cd churn-prediction
 jupyter notebook Churn_prediction.ipynb
 
